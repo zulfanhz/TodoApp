@@ -1,3 +1,9 @@
+#Vercel Demo
+https://todo-app-kohl-beta.vercel.app/
+
+TODO APP 
+Created with Typescript, Tailwind CSS, React Js.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
